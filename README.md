@@ -1,4 +1,4 @@
-# cicd-pipeline-train-schedule-jenkins.This is an edited file
+# cicd-pipeline-train-schedule-jenkins.This is an edited file after first build.
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
